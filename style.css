@@ -1,0 +1,27 @@
+html, body{
+  margin: 0px;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #231c35;
+  font-family: 'Roboto', sans-serif;
+}
+
+div.main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  height: 27vh;
+  background-color: #2a2b47; 
+  
+  border-radius: 40px;
+}
+
+#time_out{
+  color: #786e91;
+  text-shadow: -2px 2px #45424d;
+  font-size: 8vw;
+}
